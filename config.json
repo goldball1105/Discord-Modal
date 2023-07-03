@@ -1,43 +1,5 @@
 {
 	"clientId": "fill in your value",
 	"guildId": "fill in your value",
-	"token": "fill in your value",
-	
-	"welcomeChannel": "fill in your value",
-	"VerifyChannel": "fill in your value",
-	"VerifylogChannel": "fill in your value",
-	"whitelistChannel": "fill in your value",
-	"verifyMsgId": "fill in your value",
-	"whitelistMsgId": "fill in your value",
-	"RuleChannel": "fill in your value",
-	"emojiverify": "fill in your value",
-	"emojiwhitelist": "fill in your value",
-	"verifyRoleone": "fill in your value",
-	"verifyRoletwo": "fill in your value",
-	"BotRoleId": "fill in your value",
-	"whitelistlogchannel": "fill in your value",
-	"logchannel": "fill in your value",
-	"minecraftlogchannel": "fill in your value",
-	"test": "fill in your value",
-	"chatgptapi": "fill in your value",
-	"RoleLinkChannel": "fill in your value",
-	"RoleLinkMsgId": "fill in your value",
-
-	"r1": "fill in your value",
-	"r2": "fill in your value",
-	"r3": "fill in your value",
-	"r4": "fill in your value",
-	"r5": "fill in your value",
-	"r1e": "fill in your value",
-	"r2e": "fill in your value",
-	"r3e": "fill in your value",
-	"r4e": "fill in your value",
-	"r5e": "fill in your value",
-
-	"RconIP": "fill in your value",
-	"RconPort": "fill in your value",
-	"RconPs": "fill in your value",
-
-	"notifyId": "fill in your value",
-	"DebugMode": false
+	"token": "fill in your value"
 }
